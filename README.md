@@ -29,7 +29,6 @@ Atualmente trabalho ajudando empresas no processo de transformação digital, co
 Busco desenvolver-me na liderança técnica, de times de desenvolvimento ágil.
 
 ### Techs
-<br><br>
 <table>
   <tbody>
     <tr valign="top">
