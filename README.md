@@ -1,5 +1,5 @@
 <h2> Olá, muito prazer. Eu sou o Daniel Pinna!</h2>
-<img align='right' src="https://avatars1.githubusercontent.com/u/30009784?s=460&u=67d21664dacca0b7ac0a355b3a611eb123f66be1&v=4" width="230">
+<img align='right' src="https://gaea.com.br/wp-content/uploads/2016/06/Como_buscar_maior_qualidade_no_desenvolvimento_de_software.jpg.jpeg" width="230">
 <p>
   <em>
     Sou bacharel em Sistemas de Informação pela <a href="https://www.estacio.br">Estácio de Sá</a>, formado em 2011.
