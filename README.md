@@ -13,7 +13,6 @@
 [![Linkedin: Daniel Pinna](https://img.shields.io/badge/-danielpinna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-pinna-28895265/)](https://www.linkedin.com/in/daniel-pinna-28895265/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielpinna2@gmail.com)](mailto:danielpinna2@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55219947795254&text=Olá!)](https://api.whatsapp.com/send?phone=5521994779525&text=Olá!)
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DanielPinna.DanielPinna)
 
 ### Techs
