@@ -10,7 +10,7 @@
   </em>
 </p>
 
-[![Linkedin: Daniel Pinna](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-pinna-28895265/)](https://www.linkedin.com/in/daniel-pinna-28895265/)
+[![Linkedin: Daniel Pinna](https://img.shields.io/badge/-danielpinna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-pinna-28895265/)](https://www.linkedin.com/in/daniel-pinna-28895265/)
 <!--
 **danielsouzapinna/danielsouzapinna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
