@@ -15,6 +15,19 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55219947795254&text=Olá!)](https://api.whatsapp.com/send?phone=5521994779525&text=Olá!)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DanielPinna.DanielPinna)
 
+### Sobre mim...
+
+Eu sou Daniel Pinna, desenvolvedor Full Stack, com mais de 13 anos de experiência no desenvolvimento de softwares.
+Desde a minha primeira aula de programação no curso técnico, eu já soube qual seria minha profissão.
+Sou realizado e apaixonado pelo que faço. Gosto de estar sempre atualizado em novas tecnologias.
+
+Profissionalmente já atuei em empresas na área de seguros, petróleo, instituição de ensino, forças
+armadas, telecomunicações, saúde e jornalismo. 
+
+Atualmente trabalho ajudando empresas no processo de transformação digital, com uso de tecnologias modernas: NodeJS, ReactJS, React Native, MongoDB, Docker, Redis, Typescript, APIs Restfull, Microserviços, CI/CD, Git e Jenkins. Através do desenvolvimento de software e metodologias ágeis de desenvolvimento.
+
+Busco desenvolver-me na liderança técnica, de times de desenvolvimento ágil.
+
 ### Techs
 <br><br>
 <table>
