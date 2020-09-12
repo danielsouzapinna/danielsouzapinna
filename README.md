@@ -1,6 +1,6 @@
 ### Olá..... 👋
-<h2> Olá, muito prazer. Eu sou o Daniel Pinna! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Olá, muito prazer. Eu sou o Daniel Pinna!</h2>
+<img align='right' src="https://avatars1.githubusercontent.com/u/30009784?s=460&u=67d21664dacca0b7ac0a355b3a611eb123f66be1&v=4" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <!--
