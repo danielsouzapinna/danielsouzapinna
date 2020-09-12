@@ -2,7 +2,7 @@
 <img align='right' src="https://avatars1.githubusercontent.com/u/30009784?s=460&u=67d21664dacca0b7ac0a355b3a611eb123f66be1&v=4" width="230">
 <p>
   <em>
-    Sou bacharel em Sistemas de Informação pela <a href="https://www.estacio.br">Estácio de Sá</a> formado em 2011.
+    Sou bacharel em Sistemas de Informação pela <a href="https://www.estacio.br">Estácio de Sá</a>, formado em 2011.
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
     </br>
     Desenvolvedor FullStack na <a href="https://www.infoglobo.com.br/Anuncie/institucional.aspx">Infoglobo</a>
